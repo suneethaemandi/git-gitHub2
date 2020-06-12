@@ -4,4 +4,5 @@ veda gitignore
 Veda git stashed
 vda branch1
 Add new changesdsdfsdf
+Pushing changes from GIT GUI
 
