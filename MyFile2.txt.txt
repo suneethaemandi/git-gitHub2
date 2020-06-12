@@ -1,1 +1,2 @@
-my file contents
+Branch1 contents
+branch2 contents
