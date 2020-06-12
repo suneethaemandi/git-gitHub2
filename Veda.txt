@@ -6,3 +6,4 @@ vda branch1
 Add new changesdsdfsdf
 Pushing changes from GIT GUI
 Pushing changes from GIT GUI branch1 using GUI
+stash 0

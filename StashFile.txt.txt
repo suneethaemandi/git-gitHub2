@@ -1,2 +1,3 @@
 Stash file 
 add new changes sasfsd
+stash file save index 1
